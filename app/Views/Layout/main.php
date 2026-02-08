@@ -17,6 +17,7 @@
   <!-- Estilos base -->
   <link rel="stylesheet" href="<?= base_url('css/index.styles.css') ?>">
   <link rel="stylesheet" href="<?= base_url('css/footer.styles.css') ?>">
+   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,700,1,0" />
 
   <?= $this->renderSection('css') ?>
 

@@ -66,8 +66,8 @@
   filter: brightness(0) invert(1);
 }
 .fondo {
-   background: radial-gradient(circle at top left, rgba(23, 101, 226, 0.35), transparent 70%),
-              radial-gradient(circle at bottom right, rgba(3, 100, 68, 0.588), #0b1535 80%);
+   background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.907), transparent 70%),
+              radial-gradient(circle at bottom right, rgba(0, 0, 0, 0.768), #ffffff 80%);
   background-attachment: fixed;
   color: #f8f9fa;
 }
@@ -98,7 +98,8 @@ body {
 
 /* ====================== NAVBAR ====================== */
 .navbar {
-    background: linear-gradient(160deg, #107866, #145084) !important;
+    background: radial-gradient(circle at top left, rgba(20, 129, 34, 0.907), transparent 70%),
+              radial-gradient(circle at bottom right, rgba(41, 135, 75, 0.832), #13aa4da9 80%) !important;
   color: white;
   box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
 }
@@ -216,6 +217,7 @@ body {
 }
 
 .card-header-custom {
+  color: white;
   background: var(--color-menta-ligero);
   border: none;
 }

@@ -6,10 +6,9 @@
     <div class="row g-3">
       
       <div class="col-md-4">
-        <h5 class="fw-bold">TechNova Consulting</h5>
+        <h5 class="fw-bold">Universidad Mexicana</h5>
         <p class="small text-white-50">
-          Consultora especializada en soluciones tecnológicas, desarrollo de software
-          y asesoría empresarial.
+          Universidad de estudios tecnologicos
         </p>
       </div>
 
@@ -17,7 +16,7 @@
       <div class="col-md-4">
         <h6 class="fw-semibold">Contacto</h6>
         <ul class="list-unstyled small text-white-50">
-          <li><i class="bi bi-envelope"></i> consultingtechnova4@gmail.com</li>
+          <li><i class="bi bi-envelope"></i> universidadmexicana4@gmail.com</li>
           <li><i class="bi bi-telephone"></i> 55 1234 5678</li>
           <li><i class="bi bi-geo-alt"></i> Ciudad de México</li>
         </ul>
@@ -34,7 +33,7 @@
     <hr class="border-secondary my-3">
 
     <div class="d-flex flex-column flex-md-row justify-content-between align-items-center small text-white-50">
-      <span>© <?= date('Y') ?> TechNova Consulting. Todos los derechos reservados.</span>
+      <span>© <?= date('Y') ?> Universidad Mexicana. Todos los derechos reservados.</span>
       <span>Desarrollado por el Departamento de Sistemas</span>
     </div>
 

@@ -1,7 +1,8 @@
 .footer {
   flex-shrink: 0;
-  background: linear-gradient(160deg, #107866, #145084);
-  color: #fff;
+  background:radial-gradient(circle at top left, rgba(20, 129, 34, 0.907), transparent 70%),
+              radial-gradient(circle at bottom right, rgba(41, 135, 75, 0.644), #ffffff3a 80%);
+  color: #000000;
   padding: 2rem 0;
   text-align: center;
   font-family: 'Nunito', sans-serif;
@@ -19,7 +20,7 @@
 }
 
 .footer a {
-  color: #fff;
+  color: #000000;
   text-decoration: none;
   transition: color 0.3s ease, text-decoration 0.3s ease;
 }
